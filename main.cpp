@@ -9,7 +9,7 @@
 #include <string.h>
 #include <assert.h>
 #define   LED           16
-#define   MESH_PREFIX     "FAMILIA MATOS"
+#define   MESH_PREFIX     "ESP"
 #define   MESH_PASSWORD   "12345678"
 #define   MESH_PORT       5555
 
